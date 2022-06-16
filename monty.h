@@ -1,6 +1,5 @@
 #ifndef _MONTY_H_
 #define _MONTY_H_
-#define _POSIX_C_SOURCE 200809L
 
 #include <stdlib.h>
 #include <stdio.h>
