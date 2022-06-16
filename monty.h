@@ -18,8 +18,7 @@ extern char **op_toks;
  * @prev: points to the previous element of the stack (or queue)
  * @next: points to the next element of the stack (or queue)
  *
- * Description: doubly linked list node structure
- * for stack, queues, LIFO, FIFO Holberton project
+ * Description: doubly linked list node struct
  */
 typedef struct stack_s
 {
@@ -33,8 +32,7 @@ typedef struct stack_s
  * @opcode: the opcode
  * @f: function to handle the opcode
  *
- * Description: opcode and its function
- * for stack, queues, LIFO, FIFO Holberton project
+ * Description: opcode and its function struct
  */
 typedef struct instruction_s
 {
